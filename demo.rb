@@ -1,0 +1,3 @@
+def misaligned
+  # foo
+  end
